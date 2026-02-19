@@ -1,3 +1,5 @@
+> **Updated version available:** These skills have been consolidated into a single skill with reference files at [aaronvanston/agent-skills](https://github.com/aaronvanston/agent-skills). This repo is kept for backwards compatibility.
+
 # Skills Presentations
 
 AI agent skills for creating bold, minimal presentations designed for live presenting. Tailored to [Aaron Vanston's](https://x.com/aaronvanston) personal presenting style — opinionated defaults you can adapt to your own.
